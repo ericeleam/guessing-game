@@ -1,0 +1,1 @@
+This is my text based, interactive guessing game that was created for fun with friends. It encourages strategic thinking by having several players trying to compete against eachother for the most points!
